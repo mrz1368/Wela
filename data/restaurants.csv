@@ -1,0 +1,75 @@
+,Name,Phone,Address,Website,City,Country,Postal Code,Latitude,Longitude
+0,Toranj Restaurant 1,416-225-3222,"4750 Yonge St, Unit 132, North York, ON M2N 5M6",https://www.toranj.ca,North York,Canada,M2N 5M6,43.7602117,-79.41149469999999
+1,Toranj Restaurant 2,647-350-3222,"6464 Yonge St, Unit 115, Toronto, ON M2M 3X4",https://www.toranj.ca,Toronto,Canada,M2M 3X4,43.7957451,-79.4222344
+2,Darbar Restaurant,416-519-4545,"2015 Avenue Rd, North York, ON M5M 4A5, Canada",https://www.darbarpersiangrill.com,North York,Canada,M5M 4A5,43.73551200000001,-79.41965309999999
+3,Behesht Restaurant,647-367-9760,"10165 Yonge Street, Church St N, Richmond Hill, ON L4C 1T5, Canada",,Richmond Hill,Canada,L4C 1T5,43.875376,-79.43773139999999
+4,Shamshiri Restaurant,416-578-4000,"280 Sheppard Ave E, North York, ON M2N 3B1, Canada",,North York,Canada,M2N 3B1,43.7644977,-79.39859799999999
+5,Bartar Restaurant,905-747-0888,"230 Commerce Valley Dr E #9, Thornhill, ON L3T 7Y3, Canada",,Thornhill,Canada,L3T 7Y3,43.8436645,-79.37780889999999
+6,Altuna Kebab,647-348-1067,"6099 Yonge St, North York, ON M2M 3W5, Canada",,North York,Canada,M2M 3W5,43.7912366,-79.4178802
+7,Taste of Persia,416-322-6777,"1574 Bayview Ave, Toronto, ON M4G 3B7, Canada",,Toronto,Canada,M4G 3B7,43.7055588,-79.375283
+8,Pomegranate Restaurant,416-921-7557,"420 College St, Toronto, ON M5T 1T3, Canada",,Toronto,Canada,M5T 1T3,43.6567923,-79.4069384
+9,Sumac Kebab,416-627-8400,"287 Dundas St W, Toronto, ON M5T 1G2, Canada",,Toronto,Canada,L4C 3E1,43.6542351,-79.3909678
+10,Persian Palace,905-737-4900,"10711 Yonge St, Richmond Hill, ON L4C 3E1, Canada",,Toronto,Canada,L4C 3E1,43.8887141,-79.4407996
+11,Parkway Restaurant,416-551-7910,"379 Eglinton Ave E, Toronto, ON M4P 1M5, Canada",,Richmond Hill,Canada,M4P 1M5,43.7092031,-79.38511419999999
+12,Herby Restaurant,416-466-9933,"397 Danforth Ave, Toronto, ON M4K 1P1, Canada",,Toronto,Canada,M4K 1P1,43.6773908,-79.3514325
+13,Tahchin Bar,905-597-4554,"7181 Yonge St #16, Thornhill, ON L3T 0C7, Canada",,Thornhill,Canada,L3T 0C7,43.8031686,-79.4196358
+14,Shomal Restaurant,905-881-7704,"100 Steeles Ave E, Vaughan, ON L4J 7Y1, Canada",,Vaughan,Canada,L4J 7Y1,43.7980767,-79.424539
+15,Deedar Restaurant,905-669-9988,"1450 Clark Ave W Unit 26, Thornhill, ON L4J 7R5, Canada",https://deedar.ca,Thornhill,Canada,L4J 7R5,43.7983141,-79.4697348
+16,Zafaran Restaurant,416-223-7070,"6200 Yonge St, North York, ON M2M 3X1, Canada",https://zaffron.ca,North York,Canada,M2M 3X1,43.7936408,-79.4194199
+17,Taftan Kebab,416-224-5985,"5372 Yonge St, North York, ON M2N 5R5, Canada",https://taftankabab.com,North York,Canada,M2N 5R5,43.774437,-79.4144905
+18,Sina Grill,647-350-6788,"302 Eglinton Ave W, Toronto, ON M4R 1B2, Canada",https://sinapersiangrill.business.site,Toronto,Canada,M4R 1B2,43.7048648,-79.4082378
+19,Sedaghat Restaurant,416-699-2099,"3342 Danforth Ave, Scarborough, ON M1L 1C8, Canada",,Scarborough,Canada,M1L 1C8,43.69396400000001,-79.27748869999999
+20,Faryab Restaurant,416-901-6631,"Dixie Land Plaza, 1801 Lawrence Ave E, Scarborough, ON M1R 2X7, Canada",https://www.faryabrestaurant.ca,Scarborough,Canada,M1R 2X7,43.7428134,-79.3051826
+21,I Cook Persian Cuisine,613-695-3004,"731 Ridgewood Ave, Ottawa, ON K1V 6M8, Canada",https://icookpersiancuisine1.com,Ottawa,Canada,K1V 6M8,45.36851,-75.68815839999999
+22,Pars Ital Restaurant,613-435-8887,"1133 Carp Rd, Stittsville, ON K2S 1B9, Canada",,Stittsville,Canada,K2S 1B9,45.2689375,-75.940182
+23,Chelochi Grill,613-736-1141,"2900 Gibford Dr UNIT #8, Ottawa, ON K1V 1C3, Canada",https://www.chelochigrill.com,Ottawa,Canada,K1V 1C3,45.3428122,-75.6684203
+24,Saffron Kabob Restaurant,613-260-2229,"1729 Bank St Unit 105, Ottawa, ON K1V 7Z4, Canada",https://www.saffronkabab.ca,Ottawa,Canada,K1V 7Z4,45.3742236,-75.6647371
+25,Apadana Persian Restaurant,416-887-8189,"13071 Yonge St, Richmond Hill, ON L4E 1A5, Canada",,Richmond Hill,Canada,L4E 1A5,43.9474646,-79.4541471
+26,Apple Restaurant,905-773-6124,"12-13130 Yonge St, Richmond Hill, ON L4E 2T3, Canada",,Richmond Hill,Canada,L4E 2T3,43.947866,-79.4560438
+27,Simurgh Restaurant,289-234-6622,"12930 Yonge St, Richmond Hill, ON L4E 3K2, Canada",,Richmond Hill,Canada,L4E 3K2,43.9428863,-79.4547813
+28,Shatter Abbas (Thornhill),905-731-5299,"8141 Yonge st, Thornhill, ON L3T 2C6, Canada",https://www.shatterabbas.ca,Thornhill,Canada,L3T 2C6,43.8262747,-79.4261146
+29,Shatter Abbas (Sheppard),416-590-9287,"804 Sheppard Ave East, Toronto, ON M2K 1C2,Canada",https://www.shatterabbas.ca,Toronto,Canada,M2K 1C2,43.7701125,-79.3745081
+30,Shatter Abbas (Queens Quay),416-551-8010,"218 Queens Quay W Toronto, ON M5J 2Y6, Canada",https://www.shatterabbas.ca,Toronto,Canada,M5J 2Y6,43.6399111,-79.3820853
+31,Little House Of Kebobs,905-787-9988,"1480 Major Mackenzie Dr E, Richmond Hill, ON L4S 0A1, Canada",,Richmond Hill,Canada,L4S 0A1,43.8808129,-79.3936617
+32,Village Kebab,289-570-9797,"1285 Elgin Mills Rd E #12, Richmond Hill, ON L4S 0B5, Canada",https://villageofkebab.ca,Richmond Hill,Canada,L4S 0B5,43.8962082,-79.40289469999999
+33,Khaki Restaurant (Richmond Hill),905-237-9499,"10210 Yonge St, Richmond Hill, ON L4C 3B6, Canada",https://khakirestaurant.ca,Richmond Hill,Canada,L4C 3B6,43.8763779,-79.43874009999999
+34,Khaki Restaurant (Iranian Plaza),416-666-4442,"6119 Yonge St, North York, ON M2M 3W2, Canada",https://khakirestaurant.ca,North York,Canada,M2M 3W2,43.7915691,-79.4179454
+35,Roses Kebab Land,905-597-3990,"9218 Yonge St, Richmond Hill, ON L4C 1J7, Canada",,Richmond Hill,Canada,L4C 1J7,43.85211049999999,-79.4336869
+36,Heeva Restaurant,905-237-9588,"10454 Yonge St, Richmond Hill, ON L4C 3C4, Canada",https://www.heevafinefoods.com,Richmond Hill,Canada,L4C 3C4,43.8823546,-79.44025030000002
+37,Inferno Charcoal Grill,289-597-2247,"9184 Yonge St, Unit # 16, Richmond Hill, ON L4C 7A1, Canada",,Richmond Hill,Canada,L4C 7A1,43.8509051,-79.433888
+38,Naeb Restaurant,905-246-8000,"10165 Yonge St, Richmond Hill, ON L4C 1T5, Canada",https://naebrestaurant.ca,Richmond Hill,Canada,L4C 1T5,43.875376,-79.43773139999999
+39,Khansalar Restaurant,905-237-8010,"9325 Yonge Street, Richmond Hill, ON, L4C 0A8 Canada",https://khansalar.ca,Richmond Hill,Canada,L4C 0A8,43.856115,-79.4314888
+40,Baran Restaurant,437-214-9621,"9737 Yonge St, Richmond Hill, ON L4C 1V7, Canada",,Richmond Hill,Canada,L4C 1V7,43.8644356,-79.4348883
+41,Tochal Restaurant,905-787-8080,"10255 Yonge St , Unit 3, Richmond Hill, ON L4C 3B2, Canada",https://tochal.ca,Richmond Hill,Canada,L4C 3B2,43.8775904,-79.4381271
+42,Taftan Kebab (Richmond Hill),905-508-2644,"9625 Yonge St, Richmond Hill, ON L4C 5T2, Canada",,Richmond Hill,Canada,L4C 5T2,43.8614313,-79.4334671
+43,Shishlix Restaurant,905-918-0402,"9555 Yonge St, Richmond Hill, ON L4C 1V4, Canada",https://shishlix.com,Richmond Hill,Canada,L4C 1V4,43.8594131,-79.4332033
+44,Rayhon Kebab,905-770-4864,"30 Levendale Rd, Richmond Hill, ON L4C 4H2, Canada",https://www.rayhonkebab.com,Richmond Hill,Canada,L4C 4H2,43.88214,-79.44144109999999
+45,Silk Road Kabob House,613-741-7888,"1021 Cyrville Rd, Gloucester, ON K1J 7S3, Canada",https://silkroadkabobhouse.com,Ottawa,Canada,K1J 7S3,45.42578750000001,-75.6359037
+46,Darband Restaurant,416-445-1777,"879 York Mills Rd, North York, ON M3B 1Y5, Canada",,North York,Canada,M3B 1Y5,43.7550523,-79.3486862
+47,Gillaneh Grill House,416-390-9999,"900 York Mills Rd, North York, ON M3B 3H2, Canada",https://gilaneh.ca,North York,Canada,M3B 3H2,43.7570386,-79.3501074
+48,Takht-e Tavoos Restaurant,647-352-7322,"1120 College St, Toronto, ON M6H 1B5, Canada",https://pomegranatetoronto.com/takht-e-tavoos/,Toronto,Canada,M6H 1B5,43.6526269,-79.4331436
+49,Persis Grill (Orleans),613-824-9978,"2288 Tenth Line Rd, Ottawa, ON K4A 0X4, Canada",https://www.persisgrill.ca,Ottawa,Canada,K4A 0X4,45.4512904,-75.4845242
+50,Persis Grill (Nepean),613-824-9978,"360 Moodie Dr, Nepean, ON K2H 8G3",https://www.persisgrill.ca,Ottawa,Canada,K2H 8G3,45.3224749,-75.834256
+51,Banu Restaurant,416-777-2268,"777 Queen St W, Toronto, ON M6J 1G1, Canada",https://banu.ca,Toronto,Canada,M6J 1G1,43.6461801,-79.4079871
+52,Darvish Restaurant,416-929-8893,"508 Yonge St, Toronto, ON M4Y 1X9, Canada",https://darvishrestaurant.ca,Toronto,Canada,M4Y 1X9,43.6633832,-79.3841087
+53,Minoo Catering,416-662-4639,"8053 Yonge St, Thornhill, ON L3T 2C5, Canada",https://www.minoocatering.com,Thornhill,Canada,L3T 2C5,43.823651,-79.4256779
+54,Tabriz Restaurant,416-922-2017,"995 Bay St., Toronto, ON M5S 3C4, Canada",,Toronto,Canada,M5S 3C4,43.665378,-79.3873211
+55,Mr. Dizi,416-901-4241,"1027 Finch Ave W, North York, ON M3J 2C7, Canada",,North York,Canada,M3J 2C7,43.7673352,-79.4699488
+56,Farsi Catering,647-686-9953,"8159 Yonge St, Markham, ON L3T 2C6, Canada",,Thornhill,Canada,L3T 2C6,43.8265691,-79.426344
+57,Leroi Takeout,905-597-1977,"95 East Beaver Creek Rd , Suite 7, Richmond Hill, ON L4B 1L4, Canada",https://leroicatering.ca,Richmond Hill,Canada,L4B 1L4,43.8545228,-79.3788931
+58,Shab o Rooz Restaurant,905-553-0046,"2338 Major MacKenzie Dr W #3, Vaughan, ON L6A 3Y7, Canada",,Vaughan,Canada,L6A 3Y7,43.8544195,-79.51544729999999
+59,Pars Grill,905-553-3353,"975 Major MacKenzie Dr W A2, Maple, ON L6A 4P8, Canada",,Richmond Hill,Canada,L6A 4P8,43.8642635,-79.4696634
+60,Zagros Kebab House,905-845-2929,"649 Fourth Line #3, Oakville, ON L6L 5B3, Canada",https://www.zagroskebabhouse.com,Oakville,Canada,L6L 5B3,43.4336911,-79.70146629999999
+61,Chelowich (Roncesvalles),647-909-6845,"167 Roncesvalles Ave, Toronto, ON M6R 2L3, Canada",,Toronto,Canada,M6R 2L3,43.6442934,-79.4479279
+62,Parseh Restaurant,289-818-7007,"8202 Bayview Ave, Thornhill, ON L3T 2S2, Canada",,Thornhill,Canada,L3T 2S2,43.832028,-79.4053935
+63,Queen of Persia Restaurant,416-651-5500,"672A St Clair Ave W, Toronto, ON M6C 1B1, Canada",https://queenofpersiacuisine.com,Toronto,Canada,M6C 1B1,43.6820007,-79.42542159999999
+64,Chelo Sheesh,416-409-4646,"95 East Beaver Creek Rd, Richmond Hill, ON L4B 1L4",https://chelosheesh.com,Richmond Hill,Canada,L4B 1L4,43.8545228,-79.3788931
+65,Chef Reza,416-315-3535,"13071 Yonge St, Richmond Hill, ON L4E 1A5, Canada",https://chefreza.ca,Richmond Hill,Canada,L4E 1A5,43.9474646,-79.4541471
+66,Khorak Supermarket,416-221-7558,"6125 Yonge St, North York, ON M2M 3W8, Canada",,North York,Canada,M2M 3W8,43.79224019999999,-79.41807879999999
+67,Arzon Supermarket,416-590-1234,"6103 Yonge St, North York, ON M2M 3W2, Canada",,North York,Canada,M2M 3W2,43.79142230000001,-79.4178883
+68,Kourosh Supermarket,647-342-7777,"740 Sheppard Ave E unit 2, North York, ON M2K 1C3, Canada",,North York,Canada,M2K 1C3,43.7698495,-79.37591859999999
+69,Tehran Supermarket,905-482-1770,"7327 Yonge St, Thornhill, ON L3T 2B2, Canada",,Thornhill,Canada,L3T 2B2,43.80616,-79.42114
+70,Ava Food Market,647-347-7065,"193 Sheppard Ave E, North York, ON M2N 3A8, Canada",,North York,Canada,M2N 3A8,43.7638196,-79.3990598
+71,Daryani Supermarket,905-237-5046,"10670 Yonge Street, 101, Richmond Hill, ON L4C 3C9, Canada",,Richmond Hill,Canada,L4C 3C9,43.8874844,-79.4417752
+72,Hyper Fresh,416-665-6006,"118 Doncaster Avenue, Markham, ON L3T 1L3, Canada",,Markham,Canada,L3T 1L3,43.8055799,-79.4127305
+73,Ladan Catering,905-597-8484,"7073 Yonge Street, Thornhill, ON L3T 2A6, Canada",,Thornhill,Canada,L3T 2A6,43.799872,-79.420112
